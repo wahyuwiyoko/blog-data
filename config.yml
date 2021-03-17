@@ -15,9 +15,9 @@ minify:
     minifyOutput: true
 
 params:
-    # env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    # title: ExampleSite
-    # description: "ExampleSite description"
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Wahyu's Blog
+    description: "Wahyu's blog for documentation and some notes about system configuration of a software or about other things"
     author: Wahyu Wiyoko
     # author: ["Me", "You"] # multiple authors
     # images: ["<link or path of image for opengraph, twitter-cards>"]
