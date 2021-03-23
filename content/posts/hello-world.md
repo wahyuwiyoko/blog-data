@@ -4,7 +4,6 @@ summary: Little things about my blog
 date: 2021-03-14T20:45:56+08:00
 draft: false
 showtoc: false
-disableShare: true
 ---
 
 Hi!
@@ -14,9 +13,9 @@ To know more about me, visit my [portfolio website](https://wahyuwiyoko.github.i
 
 I made this blog for documentation and some notes, so that I don't forget one day :D
 
-Usually, I will note a system configuration of a software or about other things and will be posted on this blog.
+Usually, I'll note a system configuration of a software or about other things and will be posted on this blog.
 
 I use [Hugo](https://gohugo.io/) as a SSG (Static Site Generator) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme on this blog.
-Thanks to [Aditya Telange](https://github.com/adityatelange) for creating this beautiful and simple theme for the blog.
+Thanks to [Aditya Telange](https://github.com/adityatelange) for creating this simple theme for the blog.
 
-That's all. Thank you for visiting my blog :)
+That's all. Thanks for visiting my blog :)

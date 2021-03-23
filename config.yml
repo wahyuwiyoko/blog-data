@@ -18,16 +18,16 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Wahyu's Blog
     description: "Wahyu's blog for documentation and some notes about system configuration of a software or about other things."
-    author: Wahyu Wiyoko
+    # author: Wahyu Wiyoko
     # author: ["Me", "You"] # multiple authors
     # images: ["<link or path of image for opengraph, twitter-cards>"]
 
-    defaultTheme: auto # dark, light
-    disableThemeToggle: false
+    defaultTheme: light # dark, light
+    disableThemeToggle: true
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowBreadCrumbs: true
+    ShowReadingTime: false
+    ShowShareButtons: false
+    ShowBreadCrumbs: false
     ShowPostNavLinks: true # Adds a Previous / Next post suggestion under a single post
     disableSpecial1stPost: false
     comments: false
@@ -35,14 +35,14 @@ params:
     showtoc: true # Table of Contents
     tocopen: false
 
-    assets:
+    # assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "favicons/favicon.ico"
-        favicon16x16: "favicons/favicon-16x16.png"
-        favicon32x32: "favicons/favicon-32x32.png"
-        apple_touch_icon: "favicons/apple-touch-icon.png"
-        safari_pinned_tab: "favicons/safari-pinned-tab.svg"
+        # favicon: "favicons/favicon.ico"
+        # favicon16x16: "favicons/favicon-16x16.png"
+        # favicon32x32: "favicons/favicon-32x32.png"
+        # apple_touch_icon: "favicons/apple-touch-icon.png"
+        # safari_pinned_tab: "favicons/safari-pinned-tab.svg"
 
     label:
         text: "Wahyu's Blog"
@@ -76,8 +76,6 @@ params:
     #     url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/wahyuwiyoko/"
-        - name: RsS
-          url: "index.xml"
 
     # analytics:
     #     google:
