@@ -1,6 +1,6 @@
 ---
 title: "Hello, World!"
-summary: Little things about my blog
+summary: Little things about my blog.
 date: 2021-03-14T20:45:56+08:00
 draft: false
 showtoc: false

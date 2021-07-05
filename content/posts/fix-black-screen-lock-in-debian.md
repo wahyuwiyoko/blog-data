@@ -1,6 +1,6 @@
 ---
 title: "Fix Black Screen Lock in Debian"
-summary: In this post, I will tell you how to fix a black lock screen in Debian
+summary: In this post, I will tell you how to fix a black lock screen in Debian.
 date: 2021-03-17T11:21:00+08:00
 draft: false
 ---
