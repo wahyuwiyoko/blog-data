@@ -6,22 +6,28 @@ draft: false
 ---
 
 ## Intro
+
 This issue may occur on computer that use Intel graphics.
 This happens when I try to turn on the computer when it's locked, and the screen suddenly goes black.
 
 ## Solutions
-First, open the terminal and enter this command below:
+
+Open the terminal and enter this command below.
+
 ```shell
 sudo mkdir /etc/X11/xorg.conf.d
 ```
+
 This command will create a new directory in `/etc/X11/`.
 
 And then, enter this command below to create a new file: `20-intel.conf`
+
 ```shell
 sudo nano /etc/X11/xorg.conf.d/20-intel.conf
 ```
 
-Enter this code below:
+Enter this code below.
+
 ```shell
 Section "Device"
 Identifier "Intel Graphics"
